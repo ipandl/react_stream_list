@@ -1,3 +1,21 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "first one",
+      "description": "description for the first one",
+      "userId": "112654291265967548081",
+      "id": 1
+    },
+    {
+      "title": "my edited stream",
+      "description": "some description",
+      "id": 2
+    },
+    {
+      "title": "my new stream",
+      "description": "testing with the updated description",
+      "userId": "112654291265967548081",
+      "id": 3
+    }
+  ]
 }
