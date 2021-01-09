@@ -1,19 +1,13 @@
 {
   "streams": [
     {
-      "title": "first one",
-      "description": "description for the first one",
-      "userId": "112654291265967548081",
-      "id": 1
-    },
-    {
-      "title": "my edited stream",
-      "description": "some description",
+      "title": "Can not edit",
+      "description": "Can not edit or delete",
       "id": 2
     },
     {
-      "title": "my new stream",
-      "description": "testing with the updated description",
+      "title": "my testing",
+      "description": "testing stream",
       "userId": "112654291265967548081",
       "id": 3
     }
