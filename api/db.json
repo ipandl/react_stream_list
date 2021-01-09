@@ -1,6 +1,12 @@
 {
   "streams": [
     {
+      "title": "My stream",
+      "description": "This is my stream",
+      "userId": "112654291265967548081",
+      "id": 1
+    },
+    {
       "title": "Can not edit",
       "description": "Can not edit or delete",
       "id": 2
